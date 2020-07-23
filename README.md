@@ -2,7 +2,7 @@
 
 > In this project, we implemented friendship and other features as highlighted in the project specification, after forking the [original repo](https://github.com/microverseinc/ror-social-scaffold). We also added unit and integration testing.
 
-![screenshot](/app/assets/images/screenshot.png)
+![screenshot](/app/assets/images/screenshot1.png)
 
 ## Built With
 
