@@ -13,5 +13,4 @@ class Post < ApplicationRecord
     frnds << user.id
     Post.where(user_id: frnds).ordered_by_most_recent.includes(:user)
   end
-  
 end
